@@ -1,0 +1,34 @@
+{
+  "name": "vue3-date-time-picker-demo",
+  "version": "1.0.0",
+  "private": false,
+  "homepage": "https://vue3datepicker.com",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "core-js": "3.19.1",
+    "vue": "3.2.21",
+    "vue3-date-time-picker": "2.3.3"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "@vue/compiler-sfc": "^3.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ],
+  "keywords": [
+    "datepicker",
+    "rangepicker",
+    "timepicker",
+    "vue3-datepicker",
+    "vue3-date-time-picker"
+  ],
+  "description": "vue3-date-time-picker playground"
+}
